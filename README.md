@@ -102,4 +102,4 @@ Cette application utilise les fonctionnalités avancées de Streamlit :
 
 ---
 
-Créé par Loïc| [Wild Code School](https://www.wildcodeschool.com/)
+Créé par Loïc | [Wild Code School](https://www.wildcodeschool.com/)

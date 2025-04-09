@@ -40,7 +40,7 @@ def show_ai_news():
     # Première innovation
     with col1:
         st.subheader("Modèles Multimodaux")
-        st.image("https://placehold.co/400x250/1E88E5/FFFFFF?text=Modeles+Multimodaux", use_container_width=True)
+        st.markdown("![Modèles Multimodaux](https://placehold.co/400x250/1E88E5/FFFFFF?text=Modeles+Multimodaux)")
         st.write("""
         Les modèles multimodaux comme GPT-4V, Claude 3 et Gemini peuvent désormais traiter 
         simultanément texte, images, et dans certains cas audio et vidéo. 
@@ -53,7 +53,7 @@ def show_ai_news():
     # Deuxième innovation
     with col2:
         st.subheader("Agents IA Autonomes")
-        st.image("https://placehold.co/400x250/4CAF50/FFFFFF?text=Agents+IA+Autonomes", use_container_width=True)
+        st.markdown("![Agents IA](https://placehold.co/400x250/4CAF50/FFFFFF?text=Agents+IA+Autonomes)")
         st.write("""
         Les agents IA autonomes comme AutoGPT peuvent désormais planifier et 
         exécuter des séquences complexes de tâches avec peu d'intervention humaine. 
@@ -65,7 +65,7 @@ def show_ai_news():
     # Troisième innovation
     with col3:
         st.subheader("IA Générative Locale")
-        st.image("https://placehold.co/400x250/FF9800/FFFFFF?text=IA+Generative+Locale", use_container_width=True)
+        st.markdown("![IA Locale](https://placehold.co/400x250/FF9800/FFFFFF?text=IA+Generative+Locale)")
         st.write("""
         Des modèles comme Llama 3, Mistral et Claude Haiku peuvent maintenant 
         fonctionner directement sur les appareils des utilisateurs. 

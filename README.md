@@ -6,7 +6,7 @@
 
 ## 📋 Présentation
 
-Cette application Streamlit a été créée dans le cadre d'un challenge Wild Code School pour présenter une veille technologique sur les dernières avancées en intelligence artificielle. Elle démontre l'utilisation des fonctionnalités avancées de Streamlit : menu de navigation, système d'authentification et déploiement en ligne.
+Cette application Streamlit a été créée dans le cadre d'un challenge Wild Code School pour présenter une veille technologique sur les dernières avancées en intelligence artificielle. Elle démontre l'utilisation des fonctionnalités avancées de Streamlit : menu de navigation, système d'authentification et déploiement en ligne (Vous pouvez tester l'application ici : https://appchallengewcs-vftq43xlx8uv678gsxneuv.streamlit.app/) .
 
 ![Aperçu de l'application](https://placehold.co/800x400/1E88E5/FFFFFF?text=Veille+Technologique+IA)
 
